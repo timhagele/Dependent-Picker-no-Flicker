@@ -24,7 +24,7 @@ struct ContentView: View {
 		ContentView2()
 }
 
-
+  
 
 struct ContentView2: View {
 
