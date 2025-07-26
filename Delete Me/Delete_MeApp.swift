@@ -12,7 +12,9 @@ import SwiftUI
 struct Delete_MeApp: App {
     var body: some Scene {
         WindowGroup {
-					ContentView2()
+//          ContentView2()
+//          ContentView7()
+          ContentView8()
 //					DemoView()
         }
     }

@@ -11,6 +11,8 @@
 		220D4BE02E3131B100EAE646 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220D4BDF2E3131B100EAE646 /* ContentView.swift */; };
 		220D4BE22E3131B300EAE646 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 220D4BE12E3131B300EAE646 /* Assets.xcassets */; };
 		220D4BE62E3131B300EAE646 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 220D4BE52E3131B300EAE646 /* Preview Assets.xcassets */; };
+		22E796202E344D6E0068E085 /* Picker No Flicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E7961F2E344D6E0068E085 /* Picker No Flicker.swift */; };
+		22E796222E34758D0068E085 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E796212E34758D0068E085 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		220D4BE12E3131B300EAE646 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		220D4BE32E3131B300EAE646 /* Delete_Me.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Delete_Me.entitlements; sourceTree = "<group>"; };
 		220D4BE52E3131B300EAE646 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		22E7961F2E344D6E0068E085 /* Picker No Flicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Picker No Flicker.swift"; sourceTree = "<group>"; };
+		22E796212E34758D0068E085 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +58,11 @@
 			children = (
 				220D4BDD2E3131B100EAE646 /* Delete_MeApp.swift */,
 				220D4BDF2E3131B100EAE646 /* ContentView.swift */,
+				22E796212E34758D0068E085 /* SwiftUIView.swift */,
 				220D4BE12E3131B300EAE646 /* Assets.xcassets */,
 				220D4BE32E3131B300EAE646 /* Delete_Me.entitlements */,
 				220D4BE42E3131B300EAE646 /* Preview Content */,
+				22E7961F2E344D6E0068E085 /* Picker No Flicker.swift */,
 			);
 			path = "Delete Me";
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 			files = (
 				220D4BE02E3131B100EAE646 /* ContentView.swift in Sources */,
 				220D4BDE2E3131B100EAE646 /* Delete_MeApp.swift in Sources */,
+				22E796222E34758D0068E085 /* SwiftUIView.swift in Sources */,
+				22E796202E344D6E0068E085 /* Picker No Flicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
